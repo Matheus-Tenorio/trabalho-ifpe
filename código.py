@@ -1,4 +1,4 @@
-# Lista para armazenar alunos
+# Lista para armazenar aluno
 alunos = []
 
 # Função para adicionar alunos
